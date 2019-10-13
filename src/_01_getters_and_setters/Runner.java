@@ -12,7 +12,7 @@ public class Runner {
 		person2.setSuperpower("super strength");
 		person2.setName("Arnold");
 		person3.setSuperpower("teleportation");
-		person3.setName("Kody");
+		person3.setName("Caleb");
 		System.out.println(person1.toString());
 		System.out.println(person2.toString());
 		System.out.println(person3.toString());
